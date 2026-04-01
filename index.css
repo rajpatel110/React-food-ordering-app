@@ -5,7 +5,8 @@
 }
 
 .logo{
-    width: 200px;
+    width: 180px;
+    height: 200px;
 }
 
 .nav-items > ul{
@@ -26,9 +27,11 @@
 }
 
 .res-card{
+    margin: 5px;
     padding: 5px;
-    width: 200px;
-    height: 300px;
+    width: 230px;
+    
+
 }
 .res-card:hover{
     cursor: pointer;
@@ -40,6 +43,6 @@
 }
 
 .res-logo{
-    width: 190px;
-    padding: 5px;
+    width: 100%;
+    
 }
