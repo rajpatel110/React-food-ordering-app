@@ -70,3 +70,7 @@
     margin: 10px;
     cursor: pointer;
 }
+
+.filter{
+    display:flex;
+}
