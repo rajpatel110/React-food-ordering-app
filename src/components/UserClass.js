@@ -31,8 +31,8 @@ class UserClass extends React.Component{
 
 
         return(
-            <div className="user-card">
-                <img src={avatar_url} />
+            <div className="user-card border border-black p-4 rounded-lg shadow-md w-64 text-center bg-white">
+                <img src={avatar_url}   className="w-28 h-28 rounded-full object-cover"/>
                 <h2>Name: {name}</h2>
                 <h3>Location: {location}</h3>
                 <h4>Email: 341raj.patel@gmail.com</h4>
